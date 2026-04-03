@@ -1,0 +1,27 @@
+body{
+}
+
+.task{
+    background-color: cadetblue;
+    width: 1000px;
+    height: auto;
+    border-radius: 10px;
+    margin: auto;
+    color: white;
+    padding: 10px;
+}
+
+.task img{
+    border-radius: 60%;
+    margin: 10px;
+}
+
+.task button{
+    transition: 0.3s;
+}
+
+.task button:hover{
+    background-color: black;
+    color: white;
+    
+}
